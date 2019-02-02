@@ -1,7 +1,7 @@
 ---
 title: Hexo GithubPage Typora个人博客搭建
-date: 2019-01-29 16:20:41
-tags:
+date: 2018-01-29 16:20:41
+tags: 工具技巧
 ---
 
 ### 一、使用hexo搭建个人blog
