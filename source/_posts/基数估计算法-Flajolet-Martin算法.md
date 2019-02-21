@@ -2,6 +2,7 @@
 title: 基数估计算法(Flajolet-Martin算法)
 date: 2019-02-18 16:59:37
 tags: algorithm
+mathjax: true
 ---
 
 **简介**
